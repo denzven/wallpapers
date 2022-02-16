@@ -10,6 +10,7 @@ but some sources are (this will be updated) :
 
 WallpaperCave.com
 DevianArt
+linuxdotexe/nordic-wallpapers
 
 ### How do i Use these wallpapers?
 
@@ -18,7 +19,10 @@ and add that folder in wallpaper slideshow in windows settings
 done!
 
 ### Credits
-
 (will be updated soon)
+
+
+[linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)
+
 
 Made by Denzven with love 💜
